@@ -1,14 +1,8 @@
-.div-center {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
-}
 
 .question-div {
     background-color: #FA7D09;
-    padding: 40px;
-    width: 300px;
+    padding: 10px;
+    overflow: hidden;
     border-radius: 25px;
 }
 
@@ -17,3 +11,13 @@
     position: inherit;
     padding-bottom: 13px;
 }
+
+.options {
+    color: #fff;
+    cursor: pointer;
+    background-color: #4A3F35;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
