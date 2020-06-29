@@ -11,3 +11,9 @@
     width: 300px;
     border-radius: 25px;
 }
+
+#question-number {
+    padding-top: 0;
+    position: inherit;
+    padding-bottom: 13px;
+}
