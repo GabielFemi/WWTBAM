@@ -2,7 +2,10 @@
     font-family: "Bangers";
     src: url("Bangers.ttf");
 }
+
 .title-header {
+    font-family: Bangers;
+    font-size: 30px;
     background-color: #FA7D09;
     padding: 10px;
 }
