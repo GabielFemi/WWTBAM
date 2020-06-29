@@ -1,9 +1,7 @@
 
-.question-div {
+.title-header {
     background-color: #FA7D09;
     padding: 10px;
-    overflow: hidden;
-    border-radius: 25px;
 }
 
 #question-number {
