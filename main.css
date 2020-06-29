@@ -8,6 +8,8 @@
     font-size: 30px;
     background-color: #FA7D09;
     padding: 10px;
+    margin-bottom: 3px;
+    border-bottom: 5px solid #000;
 }
 
 #question-number {
