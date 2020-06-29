@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: "Bangers";
+    src: url("Bangers.ttf");
+}
 .title-header {
     background-color: #FA7D09;
     padding: 10px;
