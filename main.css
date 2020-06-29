@@ -1,0 +1,13 @@
+.div-center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.question-div {
+    background-color: #FA7D09;
+    padding: 50px;
+    width: 300px;
+    border-radius: 25px;
+}
