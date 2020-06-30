@@ -1,0 +1,10 @@
+{
+  "id": "1",
+  "question": "What is the fastest animal in the world?",
+  "options": {
+    "a": "Peregrine Falcon",
+    "b": "Cheetah",
+    "c": "Bengal Tiger",
+    "d": "African Elephant"
+  }
+}
