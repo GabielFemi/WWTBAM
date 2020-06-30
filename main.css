@@ -39,3 +39,10 @@
     border-bottom: 5px solid #000;
 
 }
+
+/* todo: make the margin automatically centered */
+.main-div {
+    margin: 10%;
+    border-radius: 20px;
+    border: 10px solid #000;
+}
