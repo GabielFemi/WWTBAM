@@ -1,11 +1,17 @@
 $.getJSON("quiz.json", function( data ) {
 let items = [];
 $.each( data, function( key, val ) {
-    items.push( "<li id='" + key + "' class='" + key + "'>" + val + "</li>" );
+    if (key === 'options' || key === 'id') {
+
+    }
+    else {
+    items.push( "<div id='" + key + "' class='mx-5 text-left "  + "'>" + val + "</div>" );
+    }
+
 });
 
-$( "<ul/>", {
-    "class": "my-new-list",
+$( "<div/>", {
+    "class": "d-div",
     html: items.join( "" )
 }).appendTo( ".main-div" );
 });
